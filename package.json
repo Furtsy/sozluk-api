@@ -1,0 +1,24 @@
+{
+  "name": "tdk-api",
+  "version": "1.0.0",
+  "description": "Tdk'den kelime aratmanızı sağlar ",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/tdk-api.git"
+  },
+  "keywords": [
+    "tdk",
+    "tdk-api",
+    "sözlük"
+  ],
+  "author": "Furtsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furtsy/tdk-api/issues"
+  },
+  "homepage": "https://github.com/Furtsy/tdk-api#readme"
+}
