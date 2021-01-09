@@ -1,4 +1,4 @@
-Tdk-api
+Sözluk-api
 ---
 Türk Dil kurumundan kelime aratmanızı sağlayan bir modül.
 
@@ -6,11 +6,11 @@ Türk Dil kurumundan kelime aratmanızı sağlayan bir modül.
 ---
 
 ```shell
-npm install tdk-api
+npm install sozluk-api
 ```
 
 ```javascript
-const modül = require('tdk-api')
+const modül = require('sozluk-api')
 async function çıktı() {
 let kelime = await modül.tdk('ahır')
 console.log(kelime)
